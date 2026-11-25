@@ -1,0 +1,22 @@
+AISEL IP TV — AÇIK KAYNAK LİSANS BİLDİRİMLERİ
+Güncelleme: 25 Kasım 2026
+
+AndroidX Media3 1.11.1: Apache License 2.0.
+Kaynak: https://github.com/androidx/media
+
+Media3 FFmpeg decoder entegrasyonu 1.11.1-1:
+Media3 kısmı Apache License 2.0; FFmpeg LGPL-2.1 veya sonrası.
+Kaynak: https://github.com/linusbjorklund/matinee-ffmpeg
+FFmpeg kaynak: https://github.com/FFmpeg/FFmpeg
+
+Paketin FFmpeg yapılandırması, doğrulama özeti ve ilgili tam lisans metinleri
+kaynak depodaki third_party/audio_ffmpeg/ dizininde sağlanır.
+LGPL kapsamındaki uygun kaynak erişimi, değiştirilmiş kütüphanenin yeniden
+bağlanması/relink imkânı ve bildirim yükümlülükleri dağıtım öncesinde gözden
+geçirilmelidir.
+
+Google Play Billing Library 9.1.0:
+Google Play'in SDK ve hizmet şartlarına tabidir.
+https://developer.android.com/google/play/billing
+
+MUROSOFT, Aisel IP TV ile herhangi bir IPTV yayın içeriği sağlamaz.
