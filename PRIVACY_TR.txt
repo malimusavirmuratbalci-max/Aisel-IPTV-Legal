@@ -1,30 +1,30 @@
 AISEL IP TV — GİZLİLİK POLİTİKASI VE KVKK AYDINLATMA METNİ
-Güncelleme: 25 Kasım 2026
+Güncelleme: 26 Kasım 2026
 Veri sorumlusu: MUROSOFT YAZILIM LİMİTED ŞİRKETİ
 İletişim: info@murosoft.com.tr
 
 1. HİZMET
-Aisel IP TV, kullanıcı tarafından sağlanan Xtream Codes veya M3U bağlantılarıyla çalışan bağımsız bir medya oynatıcıdır. MUROSOFT yayın listesi, TV kanalı, film, dizi, yayın hakları veya IPTV aboneliği sağlamaz. Kullanıcı yalnızca izleme yetkisine sahip olduğu kaynakları eklemelidir.
+Aisel IP TV, kullanıcının kendisinin eklediği yasal Xtream uyumlu veya M3U kaynaklarını açan bağımsız medya oynatıcıdır. MUROSOFT TV kanalı, film, dizi, yayın listesi, yayın hakkı veya üçüncü taraf IPTV aboneliği sağlamaz. Kullanıcı yalnızca erişim hakkına sahip olduğu kaynakları kullanmalıdır.
 
 2. İŞLENEN VERİLER
-Kullanıcının girdiği sağlayıcı sunucu adresi, kullanıcı adı, parola ve/veya M3U bağlantısı oynatma, liste getirme ve kendi kaynağına bağlanma amacıyla kullanılır. Yerel listeler, kullanıcı tarafından değiştirilen kanal adları, favoriler, izlenen içerik geçmişi ve kaldığı yerden devam konumu cihazda saklanır; hassas kayıtlar Android Keystore ile şifrelenir. Uygulama bu sürümde kendi reklam/analitik SDK'sını barındırmaz; konum, rehber, mikrofon veya kamera izni istemez.
+Kullanıcının girdiği yayın kaynağı adresi, kullanıcı adı, parola veya M3U listesi, yalnızca kaynak bağlantısı ve medya oynatımı için kullanılır. Kaynak profilleri, favoriler, yerel kanal düzenlemeleri, izleme geçmişi ve kaldığı yerden devam konumu kullanıcının cihazında saklanır. Android'de Android Keystore, Apple iPhone/iPad/Mac uygulamasında Apple Keychain ile korunan yerel şifreleme anahtarı kullanılır. Uygulama bu sürümde reklam/analitik SDK'sı kullanmaz ve kişi listesi, konum, kamera veya mikrofon izni istemez.
 
-Google Play abonelik işlemi sırasında Google, ödeme ve abonelik bilgilerini kendi sisteminde işler. MUROSOFT uygulama yoluyla banka/kredi kartı numarası toplamaz. Uygulama Play Billing aracılığıyla abonelik durumunu, ürün kimliğini ve satın alma yetkisini kontrol eder.
+Abonelik satın alımlarını Android'de Google Play, Apple cihazlarında Apple App Store yönetir. İlgili mağaza ödeme, fiyat, vergi ve abonelik kayıtlarını kendi koşulları altında işler. MUROSOFT uygulama üzerinden banka veya kredi kartı numarası toplamaz. Uygulama aboneliğin ürün kimliğini ve doğrulanmış etkin hakkını kontrol ederek oynatıcı erişimini yönetir.
 
 3. ÜÇÜNCÜ TARAFLARA AKTARIM
-Kullanıcı bir kaynak seçtiğinde sunucu adresi, kimlik bilgileri ve medya/görsel istekleri doğrudan kullanıcının belirlediği sağlayıcıya iletilir. Bu sağlayıcı IP adresini, bağlantı zamanını ve giriş bilgisini görebilir; kendi gizlilik kuralları uygulanır. HTTP bağlantısı kullanılırsa sunucu giriş bilgileri ağda şifrelenmeyebilir; mümkünse HTTPS tercih edilmelidir. Google Play'e ait ödeme işlemleri Google'ın politikalarına tabidir.
+Kullanıcı belirli bir yayın kaynağı seçtiğinde sunucu adresi, yayın sağlayıcıya ait kullanıcı bilgileri ve medya/afiş istekleri kullanıcının belirlediği sağlayıcının sunucusuna doğrudan iletilir. Bu sağlayıcı IP adresini, bağlantı zamanını ve hesap bilgilerini görebilir; kendi veri politikaları geçerlidir. HTTP kullanılması halinde ağ trafiği şifrelenmeyebilir; mümkünse HTTPS tercih edilmelidir. Uygulama mağazalarının ödeme işlemleri Apple veya Google tarafından yürütülür.
 
 4. HUKUKİ SEBEPLER
-Hizmetin ifası için gerekli işlemelerde 6698 sayılı KVKK md. 5/2-c, kanuni yükümlülüklerde 5/2-ç, hakların korunmasında 5/2-e ve duruma göre diğer uygulanabilir hukuki sebepler esas alınır. Gerekli olduğu yerde açık rıza ayrıca alınır.
+Hizmetin ifasına ilişkin işlemlerde KVKK m. 5/2-c, kanuni yükümlülüklerde 5/2-ç, hakların korunmasında 5/2-e ve uygun diğer kanuni sebepler uygulanabilir. Açık rıza gereken işlemlerde ayrıca rıza alınır.
 
 5. SAKLAMA / SİLME
-Listeler, favoriler ve kaldığı yerden devam verileri cihazda tutulur. İlgili liste uygulama içinden silinebilir; uygulama verilerini temizlemek veya uygulamayı kaldırmak yerel kayıtları da kaldırır. Google Play abonelik/ödeme kayıtları Google tarafından kendi saklama kurallarına göre tutulur. Uygulamayı kaldırmak Google Play aboneliğini iptal ETMEZ. Abonelik yönetimi Google Play > Ödemeler ve abonelikler > Abonelikler üzerinden yapılır.
+Kaynak listeleri ve izleme tercihleri cihazda saklanır. Kaynak listeleri uygulama içinden kaldırılabilir. Uygulama verilerinin cihazdan silinmesi yerel dosyaları kaldırır; Apple Keychain gibi sistem güvenli depoları işletim sistemi tarafından ayrıca yönetilebilir. Apple ve Google abonelik/ödeme kayıtlarını kendi politikalarına göre saklar. Uygulamayı kaldırmak aboneliği iptal ETMEZ. Abonelik, satın alındığı Apple veya Google mağazasından yönetilmelidir.
 
 6. GÜVENLİK
-Yerel kaynaklar Android Keystore tabanlı şifreli saklama kullanır. Şifrelemenin mutlak güvenlik garantisi olmadığı ve kullanıcının kendi cihaz güvenliğinden sorumlu olduğu hatırlatılır. Kullanıcı tarafından seçilen HTTP yayın sağlayıcısı bağlantıları şifresiz olabilir.
+Hassas yerel veriler cihazın güvenli anahtar deposuyla ilişkilendirilmiş şifrelemeyle korunur. Bunun mutlak güvenlik garantisi bulunmaz. Kullanıcının seçtiği HTTP yayın sağlayıcısına yapılan bağlantı şifrelenmemiş olabilir.
 
 7. BAŞVURU HAKLARI
-KVKK md. 11 kapsamındaki erişim, düzeltme, silme/yok etme, veri işleme bilgisi ve diğer talepler için info@murosoft.com.tr adresine başvurulabilir. Verilerin yalnızca cihazda bulunduğu durumlarda bunları MUROSOFT'un sunucudan silmesi teknik olarak mümkün olmayabilir; kullanıcı yerel verilerini cihazından kaldırabilir.
+KVKK m. 11 kapsamındaki talepler için info@murosoft.com.tr adresine başvurulabilir. Yalnızca kullanıcı cihazında bulunan kayıtlar MUROSOFT sunucularından silinemez; kullanıcı bunları cihazı üzerinden yönetebilir.
 
 8. GÜNCELLEMELER
-Hizmetin kapsamı veya mevzuat değişirse metin güncellenebilir. Güncel sürüm uygulama içinde ve Google Play'deki gizlilik politikası bağlantısında yayımlanır.
+Politika yeni özellikler veya mevzuat nedeniyle güncellenebilir. Güncel metne uygulama içinden ve App Store veya Google Play uygulama listeleme sayfalarındaki gizlilik bağlantısından ulaşılabilir.

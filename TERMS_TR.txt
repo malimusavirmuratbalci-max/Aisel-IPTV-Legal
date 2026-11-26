@@ -1,30 +1,32 @@
 AISEL IP TV — SON KULLANICI LİSANS VE ABONELİK SÖZLEŞMESİ
-Güncelleme: 25 Kasım 2026
+Güncelleme: 26 Kasım 2026
 Sağlayıcı: MUROSOFT YAZILIM LİMİTED ŞİRKETİ
 İletişim: info@murosoft.com.tr
 
 1. KAPSAM
-Aisel IP TV kullanıcı tarafından eklenen yasal Xtream Codes / M3U kaynaklarını açmaya yarayan oynatıcı yazılımdır. Ödenen abonelik bedeli sadece oynatıcıya erişim içindir; TV kanalı, film, dizi, internet erişimi, yayın hakkı, IPTV listesi veya üçüncü taraf aboneliği bedeli değildir.
+Aisel IP TV kullanıcının kendisinin eklediği, yasal erişim hakkı bulunan Xtream uyumlu ve M3U kaynaklarını açan bağımsız medya oynatıcıdır. Uygulama TV kanalı, film, dizi, yayın listesi, internet erişimi, üçüncü taraf IPTV aboneliği veya bu içeriklerin yayın hakkını sağlamaz. Abonelik yalnızca oynatıcı yazılımına erişim içindir.
 
-2. GOOGLE PLAY ABONELİĞİ VE ÜCRETSİZ DENEME
-Sunulması planlanan abonelik aylık otomatik yenilemelidir. Türkiye için hedef aylık bedel 50 TL olup kesin ve bağlayıcı para birimi, fiyat, vergi ve ödeme dönemi satın alma sırasında Google Play ekranında gösterilen koşullardır. Google Play'in uygun bulduğu yeni abonelere 7 gün ücretsiz deneme verilebilir. Deneme her kullanıcıya sunulmaz; uygunluğu Google Play belirler.
+2. APPLE APP STORE / GOOGLE PLAY ABONELİĞİ VE ÜCRETSİZ DENEME
+Android kullanıcıları için ödeme ve abonelik işlemleri Google Play, iPhone/iPad/Mac kullanıcıları için Apple App Store üzerinden gerçekleştirilir. Abonelik aylık olarak otomatik yenilenir. Türkiye için hedef aylık ücret 50 TL'dir. Güncel ve bağlayıcı tutar, para birimi, vergiler ve dönem ilgili mağazanın satın alma onayı ekranında gösterilen koşullardır.
 
-Google Play'in abonelik onayından sonra 7 günlük deneme başlar. Deneme sonunda kullanıcı süre bitmeden iptal etmemişse Google Play, belirtilen aylık ücreti tahsil ederek aboneliği otomatik yeniler. Uygulamayı indirmek/kurmak tek başına ücretsiz deneme veya abonelik başlatmaz; kullanıcı Google Play ödeme akışında açık onay verir.
+İlgili mağazanın uygun gördüğü hesaplara, aboneliği başlatırken 7 gün ücretsiz deneme sunulabilir. Teklif herkes için geçerli değildir; uygunluğu Apple veya Google belirler. Yalnızca uygulamayı indirip kurmak denemeyi veya ücretli aboneliği başlatmaz. Kullanıcı mağazanın ödeme ekranında işlemi onaylar.
+
+Ücretsiz teklif seçilmişse, geçerli deneme süresinin sona ermesi üzerine kullanıcı ücretlendirmeyi önceden iptal etmediyse ilgili mağaza aylık bedeli tahsil ederek aboneliği yeniler. İlk satın almada ücretsiz teklif uygun değilse mağazanın gösterdiği ücretli abonelik koşulları geçerlidir.
 
 3. İPTAL, YENİLEME VE İADE
-Abonelik Google Play üzerinden yönetilir ve iptal edilir. Google Play > Ödemeler ve abonelikler > Abonelikler bölümünde iptal mümkündür. Ücretsiz deneme bitmeden iptal edilirse ilk ücretli dönem başlatılmaz. Ücretli dönemde iptalde genel kural, erişimin ödenen dönem sonuna kadar sürmesidir; emredici mevzuat ve Google Play politikaları saklıdır. Uygulamayı silmek aboneliği iptal ETMEZ. İade ve uyuşmazlıklarda geçerli tüketici hukuku ve Google Play geri ödeme kanalları uygulanır; kullanıcının kanuni başvuru hakları sınırlandırılmaz.
+Android abonelikleri Google Play > Ödemeler ve abonelikler > Abonelikler bölümünden; Apple abonelikleri iPhone/iPad Ayarlar > Apple Hesabı > Abonelikler veya Mac App Store abonelik ayarlarından yönetilebilir. Kullanıcı yenilemeyi istediği zaman iptal edebilir. Ücretsiz deneme bitmeden yapılan iptallerde ilgili mağazanın gösterdiği iptal zamanı ve koşullarına uyulur. Ücretli dönemde iptalde genel kural, erişimin ödenen sürenin sonuna kadar devam etmesidir; mağaza koşulları ve emredici tüketici mevzuatı saklıdır. Uygulamayı silmek aboneliği iptal ETMEZ. İadeler ilgili uygulama mağazası üzerinden talep edilir; kanuni başvuru hakları sınırlandırılamaz.
 
 4. KULLANIM YETKİSİ
-Kullanıcı yalnızca yasal erişim hakkına sahip olduğu kaynakları eklemeyi, telif haklarına uymayı ve izin olmadan yayınları yeniden dağıtmamayı kabul eder. Aisel IP TV üçüncü taraf IPTV aboneliği sağlamaz. Telif hakkını ihlal eden yayınları temin etmez, liste veya kaynak paylaşmaz.
+Kullanıcı yalnızca yasal erişim hakkına sahip olduğu kaynakları eklemeyi, telif hakkı ve hizmet şartlarına uymayı, izinsiz çoğaltma/yeniden dağıtma yapmamayı kabul eder. MUROSOFT üçüncü taraf IPTV listeleri veya lisanssız yayınları temin etmez.
 
 5. TEKNİK HUSUSLAR
-Yayın kalitesi, erişim, codec uyumu ve eşzamanlı izleme sayısı kullanıcı cihazına, internet bağlantısına ve kaynak sağlayıcının şartlarına bağlıdır. MUROSOFT, üçüncü taraf yayınların kesintisiz çalışmasını veya kullanılabilirliğini garanti edemez. Desteklenen hizmet, Google Play üzerinden etkinleştirilmiş uygulama lisansı ile sınırlıdır.
+Yayın kalitesi ve kullanılabilirliği kaynak sunucuya, internet bağlantısına, platformun desteklediği medya biçimlerine ve cihazın donanımına bağlıdır. iPhone/iPad ve Mac'te Apple AVFoundation oynatıcısının desteklediği akışlar kullanılır; Android'de farklı çözücüler bulunabilir. Üçüncü taraf yayınların veya özel kodeklerin tüm cihazlarda kesintisiz çalışması garanti edilmez. Çoklu ekran özelliği, sağlayıcının eşzamanlı bağlantı sınırına tabidir.
 
 6. LİSANS
-Abonelik süresince kullanıcıya oynatıcı yazılımını kişisel, devredilemez, münhasır olmayan biçimde kullanma hakkı verilir. Bu lisans üçüncü taraf yayınların mülkiyet veya telif haklarını vermez. Açık kaynak bileşenler kendi lisansları altında sunulur.
+Aktif abonelik süresince kullanıcıya oynatıcı yazılımı üzerinde kişisel, devredilemez, münhasır olmayan kullanım hakkı verilir. Bu hak, üçüncü taraf yayınların fikrî mülkiyet haklarını kapsamaz. Apple platformlarında Apple'ın Standart Son Kullanıcı Lisans Sözleşmesi (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) de geçerlidir. Açık kaynak bileşenler kendi lisans koşulları altında sunulur.
 
 7. KİŞİSEL VERİLER
-Kullanıcının sağlayıcı kimlik bilgileri cihazda şifrelenir ve kendi yayın sağlayıcısına aktarılabilir. Google Play tahsilatı Google tarafından yürütülür; kredi kartı bilgileri uygulamaya verilmez. Ayrıntılar Gizlilik Politikası'ndadır.
+Kullanıcının sağlayıcı kimlik bilgileri cihazda şifreli biçimde tutulur ve yalnızca seçtiği yayın sağlayıcısına bağlantı için kullanılabilir. Apple App Store ve Google Play tahsilatları ilgili mağaza tarafından yürütülür; banka veya kredi kartı numarası uygulama tarafından alınmaz. Diğer ayrıntılar Gizlilik Politikası'ndadır.
 
 8. DEĞİŞİKLİKLER / UYUŞMAZLIK
-Hizmet ve koşullarda yapılacak önemli değişiklikler mevzuata uygun duyurulur. Türk hukukunun emredici tüketici ve KVKK hükümleri saklıdır. Destek ve başvurular info@murosoft.com.tr üzerinden yapılabilir.
+Hizmetteki önemli değişiklikler mevzuata uygun duyurulur. Türk hukukunun emredici tüketici ve KVKK hükümleri saklıdır. Destek ve başvurular info@murosoft.com.tr adresine gönderilebilir.
